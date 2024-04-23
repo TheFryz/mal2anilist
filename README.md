@@ -1,5 +1,5 @@
 # mal2anilist
-This is a simple lib to convert myanimelist id's to a anilist url.
+This is a script to convert myanimelist id's to a anilist id's or url's.
 
 I made this into a javascript format from the php formated made by janvernieuwe
 > [Github Repo](https://github.com/janvernieuwe/mal2anilist)
